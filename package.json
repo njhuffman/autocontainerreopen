@@ -10,7 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:autocontainerreopen.helloWorld"
+    "workspaceContains:.devcontainer/"
   ],
   "main": "./extension.js",
   "contributes": {
