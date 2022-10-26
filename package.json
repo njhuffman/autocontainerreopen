@@ -3,6 +3,7 @@
   "displayName": "AutoContainerReopen",
   "description": "Automatically run `Reopen in Container`",
   "repository": "https://github.com/njhuffman/autocontainerreopen",
+  "publisher": "NathanHuffman",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
